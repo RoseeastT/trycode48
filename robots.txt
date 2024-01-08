@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://olo4donline.getprooph.org/sitemap.xml
+Sitemap : http://ganas88.pw.spending.jp/sitemap.xml
